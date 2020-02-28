@@ -1,0 +1,8 @@
+How to start client:
+- CLI go to "/client"
+- Run "npm run dev"
+
+
+How to start server:
+- CLI go to "/server"
+- Run "npm start"
